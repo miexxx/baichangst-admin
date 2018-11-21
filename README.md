@@ -1,2 +1,1 @@
-# baichangst-admin
-佰昌官网
+佰昌管理后台
